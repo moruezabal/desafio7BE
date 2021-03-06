@@ -1,0 +1,98 @@
+[
+ {
+ "title": "Escuadra" ,
+ "price": 123.45,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png" ,
+ "id": 1
+ },
+ {
+ "title": "Calculadora" ,
+ "price": 234.56,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png" ,
+ "id": 2
+ },
+ {
+ "title": "Globo Terráqueo" ,
+ "price": 345.67,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png" ,
+ "id": 3
+ },
+ {
+ "title": "Tubo de ensayo" ,
+ "price": 524.78,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/tube-lab-science-school-256.png" ,
+ "id": 4
+ },
+ {
+ "title": "Pizarrón" ,
+ "price": 795.88,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/board-math-class-school-256.png" ,
+ "id": 5
+ },
+ {
+ "title": "Libro de texto" ,
+ "price": 34.16,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/book-note-paper-school-256.png" ,
+ "id": 6
+ },
+ {
+ "title": "Manzana" ,
+ "price": 14.33,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/apple-fruit-science-school-256.png" ,
+ "id": 7
+ },
+ {
+ "title": "Reloj despertador" ,
+ "price": 124.89,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/clock-stopwatch-timer-time-256.png" ,
+ "id": 8
+ },
+ {
+ "title": "Planilla de notas" ,
+ "price": 94.81,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/paper-clip-academic-note-exam-256.png" ,
+ "id": 9
+ },
+ {
+ "title": "Paleta de pintura" ,
+ "price": 222.65,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-256.png" ,
+ "id": 10
+ },
+ {
+ "title": "Avión de papel" ,
+ "price": 24.98,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/plane-paper-toy-science-school-256.png" ,
+ "id": 11
+ },
+ {
+ "title": "Mochila" ,
+ "price": 455.34,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/bag-pack-container-school-256.png" ,
+ "id": 12
+ },
+ {
+ "title": "Gorro académico" ,
+ "price": 576.96,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/graduation-square-academic-cap-school-256.png" ,
+ "id": 13
+ },
+ {
+ "title": "Lápiz" ,
+ "price": 66.21,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png" ,
+ "id": 14
+ },
+ {
+ "title": "Autobús escolar" ,
+ "price": 2234.56,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-256.png" ,
+ "id": 15
+ },
+ {
+ "title": "Microscopio" ,
+ "price": 234.56,
+ "thumbnail" : "https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-256.png" ,
+ "id": 16
+ }
+]
